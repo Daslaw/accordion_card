@@ -44,7 +44,7 @@ Users should be able to:
 ### What I learned
 
 - CSS styling with Flexbox and Media Query
-- Use of <details> html tag
+- Use of details html tag
 
 ## Acknowledgments
 
